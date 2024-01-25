@@ -24,8 +24,8 @@
 
 # Getting Started
 Before you begin, ensure you have the following prerequisites installed on your machine:
-1. **Java 21:**
-2. **Maven 3.9.5:**
+1. **Java 21**
+2. **Maven 3.9.5**
 
 # Steps to Launch the Application
 1. **Clone the repository:**
