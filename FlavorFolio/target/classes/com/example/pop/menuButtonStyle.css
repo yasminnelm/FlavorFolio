@@ -1,0 +1,52 @@
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #10165F;
+    -fx-background-radius: 5em;
+    -fx-padding: 0.2em;  /* Adjust this value to modify the size of the thumb */
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.scroll-pane {
+    -fx-background-color: #02030A;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical {
+    -fx-background-color: transparent;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.scroll-pane > .corner {
+    -fx-background-color: black;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.button {
+    -fx-background-color: #05071F;
+    -fx-text-fill: #e7e5e5;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.button:hover {
+    -fx-background-color: #10165F;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}
+
+.button:pressed {
+    -fx-background-color: #1620A1;
+    -fx-font-family: "Montserrat-Regular"; /* Add font-family */
+}

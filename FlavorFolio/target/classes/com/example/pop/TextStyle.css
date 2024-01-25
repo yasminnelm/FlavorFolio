@@ -1,0 +1,30 @@
+/* Apply styles to the entire TextArea */
+.text-area {
+    -fx-background-color: #f4f4f4; /* Background color */
+    -fx-font-family: "Pacifico-Regular"; /* Change font family to Montserrat-Regular */
+    -fx-font-size: 14px; /* Font size */
+    -fx-text-fill: #333333; /* Text color */
+    -fx-border-width: 1px; /* Border width */
+    -fx-border-radius: 10px; /* Border radius */
+    -fx-border-color: #ccc; /* Border color */
+}
+
+#txtinfo {
+    -fx-background-color: #f4f4f4; /* Background color */
+    -fx-font-family: "Montserrat-Regular"; /* Font family */
+    -fx-font-size: 14px; /* Font size */
+    -fx-text-fill: #333333; /* Text color */
+    -fx-border-width: 1px; /* Border width */
+    -fx-border-radius: 10px; /* Border radius */
+    -fx-border-color: #ccc; /* Border color */
+}
+
+/* Apply styles to the scrollbar of the TextArea (optional) */
+.text-area .scroll-pane .scroll-bar {
+    -fx-background-color: #dddddd; /* Scrollbar color */
+}
+
+/* Apply styles to the content of the TextArea (optional) */
+.text-area .scroll-pane .content {
+    -fx-padding: 5px; /* Padding inside the TextArea content area */
+}
