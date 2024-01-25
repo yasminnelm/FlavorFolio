@@ -25,10 +25,7 @@
 # Getting Started
 Before you begin, ensure you have the following prerequisites installed on your machine:
 1. **Java 21:**
-   - You can download it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-jdk21-downloads.html).
-
 2. **Maven 3.9.5:**
-   - You can download it from [Maven's official website](https://maven.apache.org/download.cgi).
 
 # Steps to Launch the Application
 1. **Clone the repository:**
