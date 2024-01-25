@@ -22,5 +22,28 @@
   <img src="https://github.com/yasminnelm/FlavorFolio/assets/124046446/814d5100-3422-456f-b23e-33a041623685" width="600" alt="Search Recipe">
 </p>
 
+# Getting Started
+Before you begin, ensure you have the following prerequisites installed on your machine:
+1. **Java 21:**
+   - You can download it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-jdk21-downloads.html).
+
+2. **Maven 3.9.5:**
+   - You can download it from [Maven's official website](https://maven.apache.org/download.cgi).
+
+# Steps to Launch the Application
+1. **Clone the repository:**
+```
+git clone https://github.com/yasminnelm/FlavorFolio.git
+cd FlavorFolio/FlavorFolio
+```
+2. **Build the Project:**
+```
+mvn clean install
+```
+3. **Run the Application:**
+```
+mvn javafx:run
+```
+
 # About Us
 In my second year of computer science engineering program at ENSA Marrakech, I collaborated with my groupmates—Bouataoui Mohamed Taha, Hsisou Dina, Benraho Samira, Loubna El Karroumi, and El Mellaqui Abderrahim—to develop this application. It was a rewarding experience as we combined our efforts, each bringing unique skills to the table.
